@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my profile!
+
+My name is Andrey Torres and i love creating new ways of living using the code lines :rocket: <br>
+I'm currently learning JS (ReactJS, React Native and NodeJS) but you can see other things that i am working here :smile:
+
 <!--
 **andreytdl/andreytdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
