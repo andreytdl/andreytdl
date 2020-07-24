@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Andrey%20Torres-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)](https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/) 
+[![Gmail Badge](https://img.shields.io/badge/-Andreytdl@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:andreytdl@gmail.com)](mailto:andreytdl@gmail.com)
+
 Welcome to my profile!
 
 My name is Andrey Torres and i love creating new ways of living using the code lines :rocket: <br>
