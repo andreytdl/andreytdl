@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrey%20Torres-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)](https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Andrey%20Torres-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)](https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)
 [![Gmail Badge](https://img.shields.io/badge/-Andreytdl@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:andreytdl@gmail.com)](mailto:andreytdl@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Andrey%20Codes-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreycodes/)](https://www.instagram.com/andreycodes/) 
 
 Welcome to my profile!
 
