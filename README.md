@@ -13,7 +13,7 @@ Welcome to my profile!
 My name is Andrey Torres and i love creating new ways of living using the code lines :rocket: <br>
 I'm currently working with Clojure and learning more about JS (ReactJS, React Native and NodeJS) but you can see other things that i am working here :smile:
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/andreytdl/andreytdl/blob/master/squirrel.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**
 
