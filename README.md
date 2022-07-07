@@ -1,4 +1,3 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrey%20Torres-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)](https://www.linkedin.com/in/andrey-torres-de-lima-8a6a8b145/)
 [![Gmail Badge](https://img.shields.io/badge/-Andreytdl@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:andreytdl@gmail.com)](mailto:andreytdl@gmail.com)
